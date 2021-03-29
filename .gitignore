@@ -1,0 +1,8 @@
+__pycache__
+test*
+.vscode
+form-corp-data.json
+*.csv
+*.md
+pandoc
+*.html.txt
