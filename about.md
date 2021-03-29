@@ -5,7 +5,7 @@
 語料庫簡介
 ---------
 
-![](https://img.yongfu.name/affiliations/GIL.png)
+![](https://img.yongfu.name/affiliations/GIL.png){.float-right}
 
 「臺大臺灣南島語語料庫」於2005年建立雛型，原為國立臺灣大學資訊電子科技整合研究中心「[多媒體整合實驗室][media]」子計畫之一(2001-2003)，由臺灣大學語言學研究所黃宣範、蘇以文及宋麗梅教授共同主持，結合了臺灣大學四個學院之八個系所的跨領域專業人才，以臺灣南島語為主軸，藉由資訊科技運用，建構起語言資料典藏及後設資料之標準，有系統彙整、轉寫、保存彌足珍貴的口述語料。
 
@@ -29,18 +29,4 @@
 
 而言談篇章標記則是根據Du Bois et al. (1993) 的轉寫標記法。根據Chafe (1987, 1994)以及Du Bois et al. (1993)的定義，所謂的IU (語調單位)是指在自然言談中，說話者產出的一段在聲譜圖上看是緊密結合一起的語音，這就稱為語調單位(IU)。以語調單位來切割自然言談語料，可以讓研究者得到與研究人造句子時截然不同的研究成果，因為以語調為單位的自然語料，可以呈現語言使用者在產出語料時的心理及認知方面的訊息。Chafe (1994) 曾說過，一個語調單位呈現的是說話者當時的意識焦點。而停頓更可反映出語言構思(planning)與語言產出(production)的關係(Huang 1993)，至於重複及修正都有其認知與語用上的功能。
 
- 
 [gloss]: https://www.eva.mpg.de/lingua/resources/glossing-rules.php
-
-
-
-
-
-<style>
-p img {
-	display: inline-block !important;
-    max-width: 35% !important;
-    float: right;
-    
-}
-</style>
