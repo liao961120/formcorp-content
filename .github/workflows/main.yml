@@ -21,7 +21,6 @@ jobs:
         unzip -P ${{ secrets.FORMCORP }} form-corp-data.json.zip
         unzip pandoc.zip
         python3 download_corpus_data.py
-        mv *.html.txt docs/
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
       with:
