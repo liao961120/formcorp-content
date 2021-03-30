@@ -14,7 +14,46 @@
 <h2>研究方法</h2>
 <p>我們透過田野調查的方法採集口語語料，利用數位錄音機及錄影機紀錄每段語料，而後將之轉寫成文字紀錄，並進一步分割為IU單位、做標記、及中英翻譯等等，語料內容來自於發音人的生活對話、傳說故事，或是請發音人觀看影片（Pear story）或不含文字的圖書（Frog story），之後再口述觀看過的影片或圖書內容。</p>
 <p>標記分為言談篇章標記及語法標記。語法標記是參考德國 Max Planck 語言所及 Leipzig 大學語言所共同建置的 <a href="https://www.eva.mpg.de/lingua/resources/glossing-rules.php">Leipzig Glossing Rules</a> 來做標記。</p>
-<p>而言談篇章標記則是根據 Du Bois et al. <span class="citation" data-cites="dubois1993">(<a href="#ref-dubois1993" role="doc-biblioref">1993</a>)</span> 的轉寫標記法。根據 Chafe <span class="citation" data-cites="chafe1987 chafe1994">(<a href="#ref-chafe1987" role="doc-biblioref">1987</a>, <a href="#ref-chafe1994" role="doc-biblioref">1994</a>)</span> 以及 <span class="citation" data-cites="dubois1993"><a href="#ref-dubois1993" role="doc-biblioref">Du Bois et al.</a> (<a href="#ref-dubois1993" role="doc-biblioref">1993</a>)</span> 的定義，所謂的 IU (語調單位) 是指在自然言談中，說話者產出的一段在聲譜圖上看是緊密結合一起的語音，這就稱為語調單位 (IU)。以語調單位來切割自然言談語料，可以讓研究者得到與研究人造句子時截然不同的研究成果，因為以語調為單位的自然語料，可以呈現語言使用者在產出語料時的心理及認知方面的訊息。<span class="citation" data-cites="chafe1994"><a href="#ref-chafe1994" role="doc-biblioref">Chafe</a> (<a href="#ref-chafe1994" role="doc-biblioref">1994</a>)</span> 曾說過，一個語調單位呈現的是說話者當時的意識焦點。而停頓更可反映出語言構思 (planning) 與語言產出 (production) 的關係 (Huang 1993)，至於重複及修正都有其認知與語用上的功能。</p>
+<p>而言談篇章標記則是根據 Du Bois et al. <span class="citation" data-cites="dubois1993">(<a href="#ref-dubois1993" role="doc-biblioref">1993</a>)</span> 的轉寫標記法。根據 Chafe <span class="citation" data-cites="chafe1987 chafe1994">(<a href="#ref-chafe1987" role="doc-biblioref">1987</a>, <a href="#ref-chafe1994" role="doc-biblioref">1994</a>)</span> 以及 <span class="citation" data-cites="dubois1993"><a href="#ref-dubois1993" role="doc-biblioref">Du Bois et al.</a> (<a href="#ref-dubois1993" role="doc-biblioref">1993</a>)</span> 的定義，所謂的 IU (語調單位) 是指在自然言談中，說話者產出的一段在聲譜圖上看是緊密結合一起的語音，這就稱為語調單位 (IU)。以語調單位來切割自然言談語料，可以讓研究者得到與研究人造句子時截然不同的研究成果，因為以語調為單位的自然語料，可以呈現語言使用者在產出語料時的心理及認知方面的訊息。<span class="citation" data-cites="chafe1994"><a href="#ref-chafe1994" role="doc-biblioref">Chafe</a> (<a href="#ref-chafe1994" role="doc-biblioref">1994</a>)</span> 曾說過，一個語調單位呈現的是說話者當時的意識焦點。而停頓更可反映出語言構思 (planning) 與語言產出 (production) 的關係 <span class="citation" data-cites="huang1993">(<a href="#ref-huang1993" role="doc-biblioref"><strong>huang1993?</strong></a>)</span>，至於重複及修正都有其認知與語用上的功能。</p>
+</section>
+<section id="研究成果" class="level2">
+<h2>研究成果</h2>
+<p>目前語料庫中已建構好賽夏語、噶瑪蘭語、鄒語及阿美語資料庫。噶瑪蘭語有4筆口述語料（皆有聲音及影像檔）。賽夏語有22筆口述語料（只有聲音檔）。 阿美語則有2筆口述語料（皆有聲音及影像檔）。鄒語有2筆語料(只有聲音檔)。</p>
+</section>
+<section id="未來展望" class="level2">
+<h2>未來展望</h2>
+<p>除了繼續逐年蒐集台灣各南島語的相關資料外，本計畫另有兩個目標。第一，在與圖資系及資訊系的合作下，我們希望為台灣南島語建置語言資料典藏及後設資料之標準。第二，有鑒於語料庫的建構往往耗時耗工，本計畫接下來也以半自動化為目標，包括半自動化翻譯 (automated semi-translation)、聲音與文字同步 (sound-to-text alignment)、影像與文字同步 (image-to-text alignment)。藉由資訊系、電機系等教授對資訊、語言處理之長才，加上語言所研究團隊對台灣南島語之研究成果，以期對台灣南島語語料庫建制之半動化有所貢獻。</p>
+</section>
+<section id="語料庫特色" class="level2">
+<h2>語料庫特色</h2>
+<p>隨著自然語料處理技巧和網路科技的快速精進，建立語料庫成了紀錄和保存珍貴語料最有效率的方式。順應此潮流，先前各界不乏有南島語語料庫的建置，然而大部分的線上語料庫多以句子為單位，只針對特定需求或領域作設計，並且也不以多媒體方式呈現，使得一般大眾往往不得其門而入，珍貴的語料因而難以發揮高度效益。本語料庫的精神，旨在發揮最大的效益，不論是語言學者或是一般大眾，只要是對南島文化及語言有興趣者，藉由本語料庫，即可應用最便捷、多元的介面，取得豐富而珍貴的語料。</p>
+<p>為了符合本語料庫的宗旨，本語料庫的建立圍繞以下八大原則：</p>
+<dl>
+<dt>普級化</dt>
+<dd><p>本語料庫的設計，服務的對象不只語言學者，期盼能夠滿足一般大眾的求知需求，推廣台灣南島語言及文化。</p>
+</dd>
+<dt>口語性</dt>
+<dd><p>本語料庫的資料來自於第一手的口語資料，根據Du Bois et al. (1993) 的轉寫標記法，以語調為單位 (intonation unit，IU)，詳細紀錄口語中的各種現象，包括停頓、重複、修正、音調等等，真實反映出語言在生活中的實際使用狀況。</p>
+</dd>
+<dt>一致性</dt>
+<dd><p>就作業程序而言，語料的建立、編修皆採用標準化作業程序，藉以簡化操作程序。在標記規格方面，語料庫內採用統一的規格標示，語法標記大致採用 Leipzig Glossing Rules 的規定；篇章標記大致依照Du Bois et al(1993)的格式。這套規格除符合國際標準之外，並適用於大多數台灣南島語，因此，本設計便利使用者進行不同台灣南島語間的交叉查詢、比較與研究。</p>
+</dd>
+<dt>跨語言性</dt>
+<dd><p>本語料庫的查詢功能，不只能夠針對單一語言作查詢，並且還提供了跨語言查詢的功能，使用者只需輸入任何英文、中文或台灣南島語的詞彙或詞素，即可作跨語言查詢。</p>
+</dd>
+<dt>交叉性</dt>
+<dd><p>本語料庫提供交叉查詢的功能，欲查詢一詞條時，可自線上字典交叉連結至相關例句、文本和註解，反之亦可自文本中直接點選某詞彙查詢該詞彙資訊。</p>
+</dd>
+<dt>相容性</dt>
+<dd><p>為了讓本語料庫發揮最大的效益，與其他系統的相容性便為首要考量。本系統採用XML (Extensible-Mark-up Language)，其為一套簡易、靈活的程式語言系統，目前已廣泛運用在網路資訊交換之上，本語料庫可以XML格式輸出資料，滿足不同系統使用者之需求。</p>
+</dd>
+<dt>便利性</dt>
+<dd><p>在新文本上傳的同時，本系統能自動計算詞彙數，並就所有詞彙個別資訊，編輯成線上字典，減少人力負擔。</p>
+</dd>
+<dt>多元性</dt>
+<dd><p>除了文字之外，本系統提供視訊、音訊等多媒體的使用，使語料庫的內容得以更多元的呈現，同時也可提升一般大眾使用的興趣與動機。</p>
+</dd>
+</dl>
 <div id="refs" class="references csl-bib-body hanging-indent" data-line-spacing="2" role="doc-bibliography">
 <div id="ref-chafe1987" class="csl-entry" role="doc-biblioentry">
 Chafe, W. L. (1987). Cognitive constraints on information flow. In R. S. Tomlin (Ed.), <em>Coherence and <span>Grounding</span> in <span>Discourse</span></em> (pp. 21–51). <span>Amsterdam</span>: <span>John Benjamins</span>.
