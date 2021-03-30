@@ -6,3 +6,4 @@ form-corp-data.json
 *.md
 pandoc
 *.html.txt
+*.html
