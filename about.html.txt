@@ -4,7 +4,7 @@
 <h2>語料庫簡介</h2>
 <p><img src="https://img.yongfu.name/affiliations/GIL.png" class="float-right" /></p>
 <p>「臺大臺灣南島語語料庫」於2005年建立雛型，原為國立臺灣大學資訊電子科技整合研究中心「多媒體整合實驗室」子計畫之一 (2001-2003)，由臺灣大學語言學研究所黃宣範、蘇以文及宋麗梅教授共同主持，結合了臺灣大學四個學院之八個系所的跨領域專業人才，以臺灣南島語為主軸，藉由資訊科技運用，建構起語言資料典藏及後設資料之標準，有系統彙整、轉寫、保存彌足珍貴的口述語料。</p>
-<p>後又承蒙國科會人文學研究中心 (2006-2010) 及行政院原住民族委員會臺灣原住民族圖書資訊中心 (2012-present) 經費補助，由宋麗梅教授負責語料蒐集及轉寫，原住民族圖書資訊中心同仁負責典藏技術，在既有的基礎上進行改版、修訂、轉檔與擴增工作。轉寫格式/方法與學術引用，請參考 <span class="citation" data-cites="sung2008"><a href="#ref-sung2008" role="doc-biblioref">Sung, Su, Hsieh, &amp; Lin</a> (<a href="#ref-sung2008" role="doc-biblioref">2008</a>)</span>。</p>
+<p>後又承蒙國科會人文學研究中心 (2006-2010) 及行政院原住民族委員會臺灣原住民族圖書資訊中心 (2012-present) 經費補助，由宋麗梅教授負責語料蒐集及轉寫，原住民族圖書資訊中心同仁負責典藏技術，在既有的基礎上進行改版、修訂、轉檔與擴增工作。轉寫格式/方法與學術引用，請參考 <span class="citation" data-cites="sung2008">Sung, Su, Hsieh, &amp; Lin (2008)</span>。</p>
 </section>
 <section id="研究團隊" class="level2">
 <h2>研究團隊</h2>
@@ -14,11 +14,11 @@
 <h2>研究方法</h2>
 <p>我們透過田野調查的方法採集口語語料，利用數位錄音機及錄影機紀錄每段語料，而後將之轉寫成文字紀錄，並進一步分割為IU單位、做標記、及中英翻譯等等，語料內容來自於發音人的生活對話、傳說故事，或是請發音人觀看影片（Pear story）或不含文字的圖書（Frog story），之後再口述觀看過的影片或圖書內容。</p>
 <p>標記分為言談篇章標記及語法標記。語法標記是參考德國 Max Planck 語言所及 Leipzig 大學語言所共同建置的 <a href="https://www.eva.mpg.de/lingua/resources/glossing-rules.php">Leipzig Glossing Rules</a> 來做標記。</p>
-<p>而言談篇章標記則是根據 Du Bois et al. <span class="citation" data-cites="dubois1993">(<a href="#ref-dubois1993" role="doc-biblioref">1993</a>)</span> 的轉寫標記法。根據 Chafe <span class="citation" data-cites="chafe1987 chafe1994">(<a href="#ref-chafe1987" role="doc-biblioref">1987</a>, <a href="#ref-chafe1994" role="doc-biblioref">1994</a>)</span> 以及 <span class="citation" data-cites="dubois1993"><a href="#ref-dubois1993" role="doc-biblioref">Du Bois et al.</a> (<a href="#ref-dubois1993" role="doc-biblioref">1993</a>)</span> 的定義，所謂的 IU (語調單位) 是指在自然言談中，說話者產出的一段在聲譜圖上看是緊密結合一起的語音，這就稱為語調單位 (IU)。以語調單位來切割自然言談語料，可以讓研究者得到與研究人造句子時截然不同的研究成果，因為以語調為單位的自然語料，可以呈現語言使用者在產出語料時的心理及認知方面的訊息。<span class="citation" data-cites="chafe1994"><a href="#ref-chafe1994" role="doc-biblioref">Chafe</a> (<a href="#ref-chafe1994" role="doc-biblioref">1994</a>)</span> 曾說過，一個語調單位呈現的是說話者當時的意識焦點。而停頓更可反映出語言構思 (planning) 與語言產出 (production) 的關係 <span class="citation" data-cites="huang1993">(<a href="#ref-huang1993" role="doc-biblioref">Huang, 1993</a>)</span>，至於重複及修正都有其認知與語用上的功能。</p>
+<p>而言談篇章標記則是根據 <span class="citation" data-cites="dubois1993">Du Bois, Schuetze-Koburn, Cumming, &amp; Paolino (1993)</span> 的轉寫標記法。根據 Chafe <span class="citation" data-cites="chafe1987 chafe1994">(1987, 1994)</span> 以及 <span class="citation" data-cites="dubois1993">Du Bois et al. (1993)</span> 的定義，所謂的 IU (語調單位) 是指在自然言談中，說話者產出的一段在聲譜圖上看是緊密結合一起的語音，這就稱為語調單位 (IU)。以語調單位來切割自然言談語料，可以讓研究者得到與研究人造句子時截然不同的研究成果，因為以語調為單位的自然語料，可以呈現語言使用者在產出語料時的心理及認知方面的訊息。<span class="citation" data-cites="chafe1994">Chafe (1994)</span> 曾說過，一個語調單位呈現的是說話者當時的意識焦點。而停頓更可反映出語言構思 (planning) 與語言產出 (production) 的關係 <span class="citation" data-cites="huang1993">(Huang, 1993)</span>，至於重複及修正都有其認知與語用上的功能。</p>
 </section>
 <section id="研究成果" class="level2">
 <h2>研究成果</h2>
-<p>目前語料庫中已建構好賽夏語、噶瑪蘭語、鄒語及阿美語資料庫。噶瑪蘭語有4筆口述語料（皆有聲音及影像檔）。賽夏語有22筆口述語料（只有聲音檔）。 阿美語則有2筆口述語料（皆有聲音及影像檔）。鄒語有2筆語料(只有聲音檔)。</p>
+<p>目前語料庫中已建構好賽夏語、噶瑪蘭語、鄒語及阿美語資料庫。噶瑪蘭語有 4 筆口述語料。賽夏語有 22 筆口述語料。 阿美語則有 2 筆口述語料。鄒語有 2 筆語料。</p>
 </section>
 <section id="未來展望" class="level2">
 <h2>未來展望</h2>
@@ -33,10 +33,10 @@
 <dd><p>本語料庫的設計，服務的對象不只語言學者，期盼能夠滿足一般大眾的求知需求，推廣台灣南島語言及文化。</p>
 </dd>
 <dt>口語性</dt>
-<dd><p>本語料庫的資料來自於第一手的口語資料，根據Du Bois et al. (1993) 的轉寫標記法，以語調為單位 (intonation unit，IU)，詳細紀錄口語中的各種現象，包括停頓、重複、修正、音調等等，真實反映出語言在生活中的實際使用狀況。</p>
+<dd><p>本語料庫的資料來自於第一手的口語資料，根據 <span class="citation" data-cites="dubois1993">Du Bois et al. (1993)</span> 的轉寫標記法，以語調為單位 (intonation unit，IU)，詳細紀錄口語中的各種現象，包括停頓、重複、修正、音調等等，真實反映出語言在生活中的實際使用狀況。</p>
 </dd>
 <dt>一致性</dt>
-<dd><p>就作業程序而言，語料的建立、編修皆採用標準化作業程序，藉以簡化操作程序。在標記規格方面，語料庫內採用統一的規格標示，語法標記大致採用 Leipzig Glossing Rules 的規定；篇章標記大致依照Du Bois et al(1993)的格式。這套規格除符合國際標準之外，並適用於大多數台灣南島語，因此，本設計便利使用者進行不同台灣南島語間的交叉查詢、比較與研究。</p>
+<dd><p>就作業程序而言，語料的建立、編修皆採用標準化作業程序，藉以簡化操作程序。在標記規格方面，語料庫內採用統一的規格標示，語法標記大致採用 Leipzig Glossing Rules 的規定；篇章標記大致依照 <span class="citation" data-cites="dubois1993">Du Bois et al. (1993)</span> 的格式。這套規格除符合國際標準之外，並適用於大多數台灣南島語，因此，本設計便利使用者進行不同台灣南島語間的交叉查詢、比較與研究。</p>
 </dd>
 <dt>跨語言性</dt>
 <dd><p>本語料庫的查詢功能，不只能夠針對單一語言作查詢，並且還提供了跨語言查詢的功能，使用者只需輸入任何英文、中文或台灣南島語的詞彙或詞素，即可作跨語言查詢。</p>
@@ -44,14 +44,8 @@
 <dt>交叉性</dt>
 <dd><p>本語料庫提供交叉查詢的功能，欲查詢一詞條時，可自線上字典交叉連結至相關例句、文本和註解，反之亦可自文本中直接點選某詞彙查詢該詞彙資訊。</p>
 </dd>
-<dt>相容性</dt>
-<dd><p>為了讓本語料庫發揮最大的效益，與其他系統的相容性便為首要考量。本系統採用XML (Extensible-Mark-up Language)，其為一套簡易、靈活的程式語言系統，目前已廣泛運用在網路資訊交換之上，本語料庫可以XML格式輸出資料，滿足不同系統使用者之需求。</p>
-</dd>
-<dt>便利性</dt>
-<dd><p>在新文本上傳的同時，本系統能自動計算詞彙數，並就所有詞彙個別資訊，編輯成線上字典，減少人力負擔。</p>
-</dd>
 <dt>多元性</dt>
-<dd><p>除了文字之外，本系統提供視訊、音訊等多媒體的使用，使語料庫的內容得以更多元的呈現，同時也可提升一般大眾使用的興趣與動機。</p>
+<dd><p>除了文字之外本系統亦提供音訊，使語料庫的內容得以更多元的呈現，同時也可提升一般大眾使用的興趣與動機。</p>
 </dd>
 </dl>
 <div id="refs" class="references csl-bib-body hanging-indent" data-line-spacing="2" role="doc-bibliography">
