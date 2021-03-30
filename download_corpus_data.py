@@ -41,7 +41,7 @@ def Pandoc(mdstring, outfile):
             --citeproc
             --bibliography="references.bib"
             --csl="apa.csl"
-            --metadata link-citations=true
+            --metadata link-citations=false
         '''
     cmd = [x.strip() for x in cmd.strip().split('\n')]
     status = os.system(' '.join(cmd))
