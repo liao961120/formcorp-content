@@ -27,7 +27,7 @@
 <section id="語料庫特色" class="level2">
 <h2>語料庫特色</h2>
 <p>隨著自然語料處理技巧和網路科技的快速精進，建立語料庫成了紀錄和保存珍貴語料最有效率的方式。順應此潮流，先前各界不乏有南島語語料庫的建置，然而大部分的線上語料庫多以句子為單位，只針對特定需求或領域作設計，並且也不以多媒體方式呈現，使得一般大眾往往不得其門而入，珍貴的語料因而難以發揮高度效益。本語料庫的精神，旨在發揮最大的效益，不論是語言學者或是一般大眾，只要是對南島文化及語言有興趣者，藉由本語料庫，即可應用最便捷、多元的介面，取得豐富而珍貴的語料。</p>
-<p>為了符合本語料庫的宗旨，本語料庫的建立圍繞以下八大原則：</p>
+<p>為了符合本語料庫的宗旨，本語料庫的建立圍繞以下五大原則：</p>
 <dl>
 <dt>普級化</dt>
 <dd><p>本語料庫的設計，服務的對象不只語言學者，期盼能夠滿足一般大眾的求知需求，推廣台灣南島語言及文化。</p>
@@ -40,9 +40,6 @@
 </dd>
 <dt>跨語言性</dt>
 <dd><p>本語料庫的查詢功能，不只能夠針對單一語言作查詢，並且還提供了跨語言查詢的功能，使用者只需輸入任何英文、中文或台灣南島語的詞彙或詞素，即可作跨語言查詢。</p>
-</dd>
-<dt>交叉性</dt>
-<dd><p>本語料庫提供交叉查詢的功能，欲查詢一詞條時，可自線上字典交叉連結至相關例句、文本和註解，反之亦可自文本中直接點選某詞彙查詢該詞彙資訊。</p>
 </dd>
 <dt>多元性</dt>
 <dd><p>除了文字之外本系統亦提供音訊，使語料庫的內容得以更多元的呈現，同時也可提升一般大眾使用的興趣與動機。</p>
@@ -62,7 +59,7 @@ Du Bois, J. W., Schuetze-Koburn, S., Cumming, S., &amp; Paolino, D. (1993). Outl
 Huang, S. (1993). Pause as a window on the mind and the grammar: <span>Evidence</span> from spoken <span>Chinese</span> discourse. In S. Iwasaki, T. Ono, H. Tao, &amp; H. S. Lee (Eds.), <em>Santa <span>Barbara Papers</span> in <span>Linguistics</span>,</em> (Vol. 5, pp. 56–81). <span>Santa Barbara, CA</span>: <span>UCSB, Department of Linguistics</span>.
 </div>
 <div id="ref-lily2008" class="csl-entry" role="doc-biblioentry">
-Lily, L. I., Sung, L.-M., Huang, S., Hsieh, F., Lin, Z., &amp; others. (2008). <span>NTU</span> corpus of <span>Formosan</span> languages: <span>A</span> state-of-the-art report. <em>Corpus Linguistics and Linguistic Theory</em>, <em>4</em>(2), 291–294.
+Lily, L. I., Sung, L.-M., Huang, S., Hsieh, F., &amp; Lin, Z. (2008). <span>NTU</span> corpus of <span>Formosan</span> languages: <span>A</span> state-of-the-art report. <em>Corpus Linguistics and Linguistic Theory</em>, <em>4</em>(2), 291–294.
 </div>
 <div id="ref-sung2008" class="csl-entry" role="doc-biblioentry">
 Sung, L.-M., Su, L. I., Hsieh, F., &amp; Lin, Z. (2008). Developing an <span>Online Corpus</span> of <span>Formosan Languages</span>. <em>Taiwan Journal of Linguistics</em>, <em>6</em>, 79–117.
