@@ -3,7 +3,7 @@
 
 name: Compile Markdown with Pandoc 2.13
 
-on: [push]
+on: [push, repository_dispatch]
 
 jobs:
   build:
