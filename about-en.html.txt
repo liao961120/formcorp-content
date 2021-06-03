@@ -1,0 +1,24 @@
+<section id="about" class="level1">
+<h1>About</h1>
+<p>Under construction…</p>
+<div id="refs" class="references csl-bib-body hanging-indent" data-line-spacing="2" role="doc-bibliography">
+<div id="ref-chafe1987" class="csl-entry" role="doc-biblioentry">
+Chafe, W. L. (1987). Cognitive constraints on information flow. In R. S. Tomlin (Ed.), <em>Coherence and <span>Grounding</span> in <span>Discourse</span></em> (pp. 21–51). <span>Amsterdam</span>: <span>John Benjamins</span>.
+</div>
+<div id="ref-chafe1994" class="csl-entry" role="doc-biblioentry">
+Chafe, W. L. (1994). <em>Discourse, consciousness, and time: <span>The</span> flow and displacement of conscious experience in speaking and writing.</em> (pp. xiii, 327). <span>Chicago, IL, US</span>: <span>University of Chicago Press</span>.
+</div>
+<div id="ref-dubois1993" class="csl-entry" role="doc-biblioentry">
+Du Bois, J. W., Schuetze-Koburn, S., Cumming, S., &amp; Paolino, D. (1993). Outline of <span>Discourse Transcription</span>. In J. A. Edwards &amp; M. D. Lampert (Eds.), <em>Talking data: <span>Transcription</span> and coding in discourse research</em>. <span>New York</span>: <span>Psychology Press</span>.
+</div>
+<div id="ref-huang1993" class="csl-entry" role="doc-biblioentry">
+Huang, S. (1993). Pause as a window on the mind and the grammar: <span>Evidence</span> from spoken <span>Chinese</span> discourse. In S. Iwasaki, T. Ono, H. Tao, &amp; H. S. Lee (Eds.), <em>Santa <span>Barbara Papers</span> in <span>Linguistics</span>,</em> (Vol. 5, pp. 56–81). <span>Santa Barbara, CA</span>: <span>UCSB, Department of Linguistics</span>.
+</div>
+<div id="ref-lily2008" class="csl-entry" role="doc-biblioentry">
+Lily, L. I., Sung, L.-M., Huang, S., Hsieh, F., &amp; Lin, Z. (2008). <span>NTU</span> corpus of <span>Formosan</span> languages: <span>A</span> state-of-the-art report. <em>Corpus Linguistics and Linguistic Theory</em>, <em>4</em>(2), 291–294.
+</div>
+<div id="ref-sung2008" class="csl-entry" role="doc-biblioentry">
+Sung, L.-M., Su, L. I., Hsieh, F., &amp; Lin, Z. (2008). Developing an <span>Online Corpus</span> of <span>Formosan Languages</span>. <em>Taiwan Journal of Linguistics</em>, <em>6</em>, 79–117.
+</div>
+</div>
+</section>
