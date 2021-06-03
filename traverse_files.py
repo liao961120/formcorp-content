@@ -56,7 +56,7 @@ class Drive():
         resp = self.service.files().list(q=q,
                                     spaces='drive',
                                     corpora='allDrives',
-                                    fields='nextPageToken, files(id, name, mimeType, parents, modifiedTime)',
+                                    fields='nextPageToken, files(id, name, mimeType, parents)',
                                     includeItemsFromAllDrives=True,
                                     supportsAllDrives=True).execute()
         return resp.get('files', [])
