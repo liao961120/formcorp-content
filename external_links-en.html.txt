@@ -1,5 +1,5 @@
-<section id="相關資源" class="level1">
-<h1>相關資源</h1>
+<section id="other-resources" class="level1">
+<h1>Other Resources</h1>
 <ul>
 <li><a href="http://www.apc.gov.tw/">行政院原住民委員會</a></li>
 <li><a href="http://www.native.taipei.gov.tw/">臺北市政府原住民事務委員會</a></li>
