@@ -46,6 +46,11 @@
 <dd><p>除了文字之外本系統亦提供音訊，使語料庫的內容得以更多元的呈現，同時也可提升一般大眾使用的興趣與動機。</p>
 </dd>
 </dl>
+<!-- Add new contents above this line -->
+</section>
+<section id="相關文獻" class="level2">
+<h2>相關文獻</h2>
+<!-- Auto Generated Content: References will be inserted automatically -->
 <div id="refs" class="references csl-bib-body hanging-indent" data-line-spacing="2" role="doc-bibliography">
 <div id="ref-chafe1987" class="csl-entry" role="doc-biblioentry">
 Chafe, W. L. (1987). Cognitive constraints on information flow. In R. S. Tomlin (Ed.), <em>Coherence and <span>Grounding</span> in <span>Discourse</span></em> (pp. 21–51). <span>Amsterdam</span>: <span>John Benjamins</span>.

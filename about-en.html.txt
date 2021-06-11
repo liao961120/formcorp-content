@@ -5,6 +5,11 @@
 <h2>Corpus Summary</h2>
 <!-- Do not delete the comment below!!! -->
 <p>Currently, the corpus contains data collected from 10 different languages: <strong>Kanakanavu</strong>, <strong>Rukai</strong>, <strong>Saisiyat</strong>, <strong>Tsou</strong>, <strong>Kavalan</strong>, <strong>Amis</strong>, <strong>Seediq</strong>, <strong>Atayal</strong>, <strong>Sakizaya</strong>, and <strong>Bunun</strong>. Nineteen texts with audio recordings (TWAs) and 2362 elicited sentences were collected for Kanakanavu, 17 TWAs for Rukai, 20 TWAs for Saisiyat, 12 TWAs for Tsou, 31 TWAs for Kavalan, 18 TWAs for Amis, 30 TWAs for Seediq, 11 TWAs for Atayal, 15 TWAs for Sakizaya, and 994 elicited sentences for Bunun.</p>
+<!-- Add new contents above this line -->
+</section>
+<section id="references" class="level2">
+<h2>References</h2>
+<!-- Auto Generated Content: References will be inserted automatically -->
 <div id="refs" class="references csl-bib-body hanging-indent" data-line-spacing="2" role="doc-bibliography">
 <div id="ref-chafe1987" class="csl-entry" role="doc-biblioentry">
 Chafe, W. L. (1987). Cognitive constraints on information flow. In R. S. Tomlin (Ed.), <em>Coherence and <span>Grounding</span> in <span>Discourse</span></em> (pp. 21–51). <span>Amsterdam</span>: <span>John Benjamins</span>.
