@@ -1,6 +1,10 @@
 <section id="about" class="level1">
 <h1>About</h1>
 <p>Under construction…</p>
+<section id="corpus-summary" class="level2">
+<h2>Corpus Summary</h2>
+<!-- Do not delete the comment below!!! -->
+<p>Currently, the corpus contains data collected from 10 different languages: <strong>Kanakanavu</strong>, <strong>Rukai</strong>, <strong>Saisiyat</strong>, <strong>Tsou</strong>, <strong>Kavalan</strong>, <strong>Amis</strong>, <strong>Seediq</strong>, <strong>Atayal</strong>, <strong>Sakizaya</strong>, and <strong>Bunun</strong>. Nineteen texts with audio recordings (TWAs) and 2362 elicited sentences were collected for Kanakanavu, 17 TWAs for Rukai, 20 TWAs for Saisiyat, 12 TWAs for Tsou, 31 TWAs for Kavalan, 18 TWAs for Amis, 30 TWAs for Seediq, 11 TWAs for Atayal, 15 TWAs for Sakizaya, and 994 elicited sentences for Bunun.</p>
 <div id="refs" class="references csl-bib-body hanging-indent" data-line-spacing="2" role="doc-bibliography">
 <div id="ref-chafe1987" class="csl-entry" role="doc-biblioentry">
 Chafe, W. L. (1987). Cognitive constraints on information flow. In R. S. Tomlin (Ed.), <em>Coherence and <span>Grounding</span> in <span>Discourse</span></em> (pp. 21–51). <span>Amsterdam</span>: <span>John Benjamins</span>.
@@ -21,4 +25,5 @@ Lily, L. I., Sung, L.-M., Huang, S., Hsieh, F., &amp; Lin, Z. (2008). <span>NTU<
 Sung, L.-M., Su, L. I., Hsieh, F., &amp; Lin, Z. (2008). Developing an <span>Online Corpus</span> of <span>Formosan Languages</span>. <em>Taiwan Journal of Linguistics</em>, <em>6</em>, 79–117.
 </div>
 </div>
+</section>
 </section>
