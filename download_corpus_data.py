@@ -4,6 +4,7 @@ import pathlib
 from google.oauth2 import service_account
 from googleapiclient.discovery import build
 from traverse_files import Drive
+from insert_corpus_info import CorpusInfoSummary
 
 # Setup GDrive API
 SCOPES = ['https://www.googleapis.com/auth/drive.readonly']
@@ -11,6 +12,7 @@ SERVICE_ACCOUNT_FILE = 'form-corp-data.json'
 credentials = service_account.Credentials.from_service_account_file(SERVICE_ACCOUNT_FILE, scopes=SCOPES)
 drive_service = build('drive', 'v3', credentials=credentials)
 drive = Drive(drive_service)
+corp_info = CorpusInfoSummary()
 
 
 def main():
@@ -23,6 +25,10 @@ def main():
         # Convert md to html
         if txt['name'].endswith('.md'):
             fcontent = drive.get_file_content(txt['id'])
+            if txt['name'] == "about.md":
+                fcontent = corp_info.insert_corpus_info(fcontent, en=False)
+            elif txt['name'] == "about-en.md":
+                fcontent = corp_info.insert_corpus_info(fcontent, en=True)
             outfile = txt['name'].replace('.md', '.html.txt')
             Pandoc(fcontent, f"docs/{outfile}")
 
