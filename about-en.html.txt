@@ -4,7 +4,7 @@
 <section id="corpus-summary" class="level2">
 <h2>Corpus Summary</h2>
 <!-- Do not delete the comment below!!! -->
-<p>Currently, the corpus contains data collected from 10 different languages: <strong>Kanakanavu</strong>, <strong>Rukai</strong>, <strong>Saisiyat</strong>, <strong>Tsou</strong>, <strong>Kavalan</strong>, <strong>Amis</strong>, <strong>Seediq</strong>, <strong>Atayal</strong>, <strong>Sakizaya</strong>, and <strong>Bunun</strong>. Nineteen texts with audio recordings (TWAs) and 2362 elicited sentences were collected for Kanakanavu, 17 TWAs for Rukai, 20 TWAs for Saisiyat, 12 TWAs for Tsou, 31 TWAs for Kavalan, 18 TWAs for Amis, 30 TWAs for Seediq, 11 TWAs for Atayal, 15 TWAs for Sakizaya, and 1024 elicited sentences for Bunun.</p>
+<p>Currently, the corpus contains data collected from 10 different languages: <strong>Kanakanavu</strong>, <strong>Rukai</strong>, <strong>Saisiyat</strong>, <strong>Tsou</strong>, <strong>Kavalan</strong>, <strong>Amis</strong>, <strong>Seediq</strong>, <strong>Atayal</strong>, <strong>Sakizaya</strong>, and <strong>Bunun</strong>. Nineteen texts with audio recordings (TWAs) and 2362 elicited sentences were collected for Kanakanavu, 17 TWAs and 1899 elicited sentences for Rukai, 20 TWAs for Saisiyat, 12 TWAs for Tsou, 31 TWAs for Kavalan, 18 TWAs for Amis, 41 TWAs for Seediq, 11 TWAs for Atayal, 15 TWAs for Sakizaya, and 13 TWAs and 2969 elicited sentences for Bunun.</p>
 <!-- Add new contents above this line -->
 </section>
 <section id="references" class="level2">
@@ -24,7 +24,7 @@ Du Bois, J. W., Schuetze-Koburn, S., Cumming, S., &amp; Paolino, D. (1993). Outl
 Huang, S. (1993). Pause as a window on the mind and the grammar: <span>Evidence</span> from spoken <span>Chinese</span> discourse. In S. Iwasaki, T. Ono, H. Tao, &amp; H. S. Lee (Eds.), <em>Santa <span>Barbara Papers</span> in <span>Linguistics</span>,</em> (Vol. 5, pp. 56–81). <span>Santa Barbara, CA</span>: <span>UCSB, Department of Linguistics</span>.
 </div>
 <div id="ref-lily2008" class="csl-entry" role="doc-biblioentry">
-Lily, L. I., Sung, L.-M., Huang, S., Hsieh, F., &amp; Lin, Z. (2008). <span>NTU</span> corpus of <span>Formosan</span> languages: <span>A</span> state-of-the-art report. <em>Corpus Linguistics and Linguistic Theory</em>, <em>4</em>(2), 291–294.
+Su, L. I., Sung, L.-M., Huang, S., Hsieh, F., &amp; Lin, Z. (2008). <span>NTU</span> corpus of <span>Formosan</span> languages: <span>A</span> state-of-the-art report. <em>Corpus Linguistics and Linguistic Theory</em>, <em>4</em>(2), 291–294.
 </div>
 <div id="ref-sung2008" class="csl-entry" role="doc-biblioentry">
 Sung, L.-M., Su, L. I., Hsieh, F., &amp; Lin, Z. (2008). Developing an <span>Online Corpus</span> of <span>Formosan Languages</span>. <em>Taiwan Journal of Linguistics</em>, <em>6</em>, 79–117.
