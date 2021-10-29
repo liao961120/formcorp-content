@@ -4,7 +4,7 @@
 <section id="corpus-summary" class="level2">
 <h2>Corpus Summary</h2>
 <!-- Do not delete the comment below!!! -->
-<p>Currently, the corpus contains data collected from 10 different languages: <strong>Kanakanavu</strong>, <strong>Rukai</strong>, <strong>Saisiyat</strong>, <strong>Tsou</strong>, <strong>Kavalan</strong>, <strong>Amis</strong>, <strong>Seediq</strong>, <strong>Atayal</strong>, <strong>Sakizaya</strong>, and <strong>Bunun</strong>. Nineteen texts with audio recordings (TWAs) and 2362 elicited sentences were collected for Kanakanavu, 17 TWAs and 1899 elicited sentences for Rukai, 20 TWAs for Saisiyat, 12 TWAs for Tsou, 31 TWAs for Kavalan, 18 TWAs for Amis, 41 TWAs for Seediq, 11 TWAs for Atayal, 15 TWAs for Sakizaya, and 13 TWAs and 2969 elicited sentences for Bunun.</p>
+<p>Currently, the corpus contains data collected from 10 different languages: <strong>Kanakanavu</strong>, <strong>Rukai</strong>, <strong>Saisiyat</strong>, <strong>Tsou</strong>, <strong>Kavalan</strong>, <strong>Amis</strong>, <strong>Seediq</strong>, <strong>Atayal</strong>, <strong>Sakizaya</strong>, and <strong>Bunun</strong>. Thirty-five texts with audio recordings (TWAs) and 2362 elicited sentences were collected for Kanakanavu, 17 TWAs and 1899 elicited sentences for Rukai, 20 TWAs for Saisiyat, 12 TWAs for Tsou, 31 TWAs for Kavalan, 18 TWAs for Amis, 39 TWAs for Seediq, 11 TWAs for Atayal, 30 TWAs for Sakizaya, and 13 TWAs and 2969 elicited sentences for Bunun.</p>
 <!-- Add new contents above this line -->
 </section>
 <section id="references" class="level2">
