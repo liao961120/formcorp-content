@@ -1,5 +1,5 @@
-<section id="關於" class="level1">
-<h1>關於</h1>
+<section id="台大台灣南島語料庫" class="level1">
+<h1>台大台灣南島語料庫</h1>
 <section id="語料庫簡介" class="level2">
 <h2>語料庫簡介</h2>
 <p><img src="https://img.yongfu.name/affiliations/GIL.png" class="float-right" /></p>

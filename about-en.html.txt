@@ -1,5 +1,5 @@
-<section id="about" class="level1">
-<h1>About</h1>
+<section id="ntu-corpus-of-formosan-languages" class="level1">
+<h1>NTU Corpus of Formosan Languages</h1>
 <p>Under construction…</p>
 <section id="corpus-summary" class="level2">
 <h2>Corpus Summary</h2>
