@@ -1,0 +1,307 @@
+<section id="about-coding" class="level1">
+<h1>About Coding</h1>
+<style>
+    .sc {
+        font-variant: small-caps;
+        font-variant-ligatures: normal;
+        font-variant-caps: small-caps;
+        font-variant-numeric: normal;
+        font-variant-east-asian: normal;
+    }
+</style>
+<section id="glossing-conventions" class="level2">
+<h2>Glossing conventions</h2>
+<p>While the coding conventions in our corpus basically follow the <a href="http://www.eva.mpg.de/lingua/resources/glossing-rules.php">Leipzig Glossing Rules</a>, we have alternative treatment on Rule 6, 7 and 10. To well capture and represent language specificity of Formosan languages, some other coding conventions are also adopted. Detailed explanations are provided below.</p>
+<ol type="A">
+<li><p>Coding for inherent categories (Rule 7) is not used.</p></li>
+<li><p>The symbol [ ] or Ø (Rule 6) is not used for glossing non-overt elements. For example, <em>‘akoy* (Saisiyat) is glossed as ’AF.many.’ Due to the unique morphological structure of focus in Tsou, non-overt elements, such as </em>bonu* 'to eat' are glossed like this: eat.AF. ( See the detailed explanation below in (E).)</p></li>
+<li><p>Coding for reduplication is not marked by a tilde, ~ (Rule 10). The three reduplication rules adopted in this corpus are listed as follows.</p>
+<ol type="i">
+<li>Ca reduplication will be glossed Ca. For example, ha-hila (Saisiyat) is glossed Ca-sun.</li>
+<li>Prefix-type reduplication: if the reduplicated portion is at word-initial position, then it is glossed <span class="sc">red</span>-. For example, m-li-lizaq (Kavalan) is glossed: <span class="sc">af</span>-<span class="sc">red</span>-happy.</li>
+<li>Infix-type reduplication: a &lt;&gt; symbol is used if the reduplicated portion is at medial position of a word. For example, sa-ru&lt;mi'a&gt;mi'ad (Amis) is glossed sa-&lt;<span class="sc">red</span>&gt;day.</li>
+</ol></li>
+<li><p>The abbreviations <span class="sc">af</span>, <span class="sc">pf</span>, <span class="sc">rf</span> (<span class="sc">if</span>) and <span class="sc">lf</span> are used to represent Agent Focus, Patient Focus, Referential Focus (Instrumental Focus), and Locative Focus.</p></li>
+<li><p>Tsou has different focus morphology from other Formosan languages. The distinction between the AF and PF markers is in the verbal suffix; therefore, the focus markers are glossed after the verb stem. For example, <em>bonU/ana</em> 'to eat' is glossed as 'eat.AF/eat.PF' and <em>boacU/eoeca</em> 'to bite' as 'bite.AF/bite.PF.' A few verbs have <em>-m-</em> or <em>m-</em> forms to mark AF, as opposed to the PF verbs, whose markers are mostly suffixed, for example, <em>tmoecU/teoca</em> 'to hack', <em>matvo'ho/patvo'ha</em> 'to dare to say', and <em>mooteo/totea</em> 'to wait.' For such AF instances, the glossing of focus markers after the verb stem is retained: 'hack.AF/hack.PF', 'dare.to.say.AF/dare.to.say.PF', and 'wait.AF/wait.PF.</p></li>
+<li><p>Different abbreviations from the <a href="http://www.eva.mpg.de/lingua/resources/glossing-rules.php">Leipzig Glossing Rules</a> include:</p>
+<ol type="i">
+<li>The abbreviation <span class="sc">caus</span> is replaced by <span class="sc">cau</span>.</li>
+<li>The abbreviation <span class="sc">dem</span> is replaced by 'this' and 'that'.</li>
+<li>The abbreviation <span class="sc">nmlz</span> is replaced by <span class="sc">nmz</span>.</li>
+<li>The abbreviation <span class="sc">recp</span> is replaced by <span class="sc">rec</span>.</li>
+</ol></li>
+</ol>
+</section>
+<section id="discourse-coding" class="level2">
+<h2>Discourse coding</h2>
+<p>Discourse markings generally follow DuBois, with the following modifications:</p>
+<ol type="1">
+<li>Truncated intonation units are not marked.</li>
+<li>To avoid confusion with the Leipzig Glossing Rules, truncated words are marked -- instead of -.</li>
+<li>To avoid possible confusion with the Leipzig Glossing Rules, lengthening is marked == instead of =.</li>
+<li>The symbol ‘^,’ originally used for primary accent, is now reserved to indicate a change of intensity, which is perceived as a focused (or "emphasized") prominent syllable which sometimes does not coincide with the stressed pattern of a word.</li>
+</ol>
+<style type="text/css">
+div.table-container {
+    max-height: 64vh;
+    overflow-x: auto;
+}
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+caption {
+    position: sticky;
+    top: 0;
+    background: white;
+    padding-bottom: 0.3em;
+}
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
+.tg .tg-ef4f{background-color:#000000;border-color:inherit;text-align:left;vertical-align:middle}
+</style>
+<div class="table-container">
+<table class="tg">
+<caption><span class="sc">Symbols for Discourse</span><br />(adopted from Du Bois et al. (1993))</caption>
+<thead>
+  <tr>
+    <th class="tg-ef4f" colspan="2"><span style="color:#FFF">Units</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-lboi">Intonation Unit</td>
+    <td class="tg-lboi">New line</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Word</td>
+    <td class="tg-lboi">space</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi" rowspan="3">Truncated word</td>
+    <td class="tg-lboi">--</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">:</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">[ ]</td>
+  </tr>
+  <tr>
+    <td class="tg-ef4f" colspan="2"><span style="color:#FFF">Transitional Continuity</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Final</td>
+    <td class="tg-lboi">.</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Continuing</td>
+    <td class="tg-lboi">,</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Appeal</td>
+    <td class="tg-lboi">?</td>
+  </tr>
+  <tr>
+    <td class="tg-ef4f" colspan="2"><span style="color:#FFF">Terminal Pitch Direction</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Fall</td>
+    <td class="tg-lboi">\</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Rise</td>
+    <td class="tg-lboi">/</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Level</td>
+    <td class="tg-lboi">_</td>
+  </tr>
+  <tr>
+    <td class="tg-ef4f" colspan="2"><span style="color:#FFF">Accent and Lengthening</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Primary accent</td>
+    <td class="tg-lboi">^</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Secondary accent</td>
+    <td class="tg-lboi">`</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">High booster</td>
+    <td class="tg-lboi">!</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Low booster</td>
+    <td class="tg-lboi">;</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Lengthening</td>
+    <td class="tg-lboi">==</td>
+  </tr>
+  <tr>
+    <td class="tg-ef4f" colspan="2"><span style="color:#FFF">Tone</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Fall</td>
+    <td class="tg-lboi">\</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Rise</td>
+    <td class="tg-lboi">/</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Fall-Rise</td>
+    <td class="tg-lboi">\/</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Rise-fall</td>
+    <td class="tg-lboi">/\</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Level</td>
+    <td class="tg-lboi">_</td>
+  </tr>
+  <tr>
+    <td class="tg-ef4f" colspan="2"><span style="color:#FFF">Pause</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Long (longer than 0.7s)</td>
+    <td class="tg-lboi">...(N)</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Medium (0.3s-0.6s)</td>
+    <td class="tg-lboi">...</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Short (shorter than 0.2s)</td>
+    <td class="tg-lboi">..</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Latching</td>
+    <td class="tg-lboi">(0)</td>
+  </tr>
+  <tr>
+    <td class="tg-ef4f" colspan="2"><span style="color:#FFF">Vocal Noises</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Vocal noises</td>
+    <td class="tg-lboi">(CAPITAL LETTERS)</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Inhalation</td>
+    <td class="tg-lboi">(H)</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Exhalation</td>
+    <td class="tg-lboi">(Hx)</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Glottal stop</td>
+    <td class="tg-lboi">%</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Laughter</td>
+    <td class="tg-lboi">@</td>
+  </tr>
+  <tr>
+    <td class="tg-ef4f" colspan="2"><span style="color:#FFF">Quality</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Quality</td>
+    <td class="tg-lboi">&lt;Y Y&gt;</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Laugh quality</td>
+    <td class="tg-lboi">&lt;@ @&gt;</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Quotation quality</td>
+    <td class="tg-lboi">&lt;Q Q&gt;</td>
+  </tr>
+  <tr>
+    <td class="tg-ef4f" colspan="2"><span style="color:#FFF">Phonetics</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Phonetic / phonemic transcription</td>
+    <td class="tg-lboi">(/ /)</td>
+  </tr>
+  <tr>
+    <td class="tg-ef4f" colspan="2"><span style="color:#FFF">Transcriber's Perspective</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Researcher's comment</td>
+    <td class="tg-lboi">(( ))</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Uncertain hearing</td>
+    <td class="tg-lboi">&lt;X X&gt;</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Indecipherable syllable</td>
+    <td class="tg-lboi">X</td>
+  </tr>
+  <tr>
+    <td class="tg-ef4f" colspan="2"><span style="color:#FFF">Specialized Notations</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Duration</td>
+    <td class="tg-lboi">(N)</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">IU boundary</td>
+    <td class="tg-lboi">&amp;</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Accent unit boundary</td>
+    <td class="tg-lboi">|</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Embedded IU</td>
+    <td class="tg-lboi">&lt;| |&gt;</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Restart</td>
+    <td class="tg-lboi">{Capital Initial}</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">False start</td>
+    <td class="tg-lboi">&lt; &gt;</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Code switching</td>
+    <td class="tg-lboi">&lt;L2 L2&gt;</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Nontranscription line</td>
+    <td class="tg-lboi">$</td>
+  </tr>
+  <tr>
+    <td class="tg-ef4f" colspan="2"><span style="color:#FFF">Reserved Symbols</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Phonetic / orthographic symbols</td>
+    <td class="tg-lboi">'</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Morphosyntactic coding</td>
+    <td class="tg-lboi">+ * # { }</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">User-definable symbols</td>
+    <td class="tg-lboi">" ~</td>
+  </tr>
+</tbody>
+</table>
+</div>
+</section>
+<section id="reference" class="level2">
+<h2>Reference</h2>
+<p>DuBois, John W. et al. 1993. Outline of discourse transcription, in <em>Talking data: transcription and coding for language research</em>, ed. by J.A.Edwards and M.S.Lampert. Hillsdale, N.J.: Lawrence Erlbaum Associates.</p>
+</section>
+</section>

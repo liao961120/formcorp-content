@@ -1,0 +1,307 @@
+<section id="標記說明" class="level1">
+<h1>標記說明</h1>
+<style>
+    .sc {
+        font-variant: small-caps;
+        font-variant-ligatures: normal;
+        font-variant-caps: small-caps;
+        font-variant-numeric: normal;
+        font-variant-east-asian: normal;
+    }
+</style>
+<section id="標記規則" class="level2">
+<h2>標記規則</h2>
+<p>基於能與國際學者及各語料庫之間參考互惠的考量，本語料庫所採用的語料標記基本上遵循 <a href="http://www.eva.mpg.de/lingua/resources/glossing-rules.php">Leipzig Glossing Rules</a> 的規則。其中，為因應臺灣南島語的特性，本語料庫對於Rule 6, 7 和10的標記方式做了調整，包括了：</p>
+<ol type="1">
+<li>第七條 Inherent categories 不使用。</li>
+<li>第六條 Non-overt elements 不採用 [ ] 或 Ø 而改用: <em>'akoy</em> (賽夏語) 標為 <span class="sc">af</span>.many。鄒語因焦點構詞較為特殊，non-overt elements如<em>bonU</em> (吃) 改標為 eat.AF，請見5之說明。</li>
+<li>第十條 Reduplication 不使用 ~, 目前對於三類的 reduplication 分別採三種處理方式：
+<ol type="A">
+<li>Ca reduplication：如果重疊是詞首子音重疊加上母音a，則改標成 Ca， 如：ha-hila (賽夏語) 即標為 Ca-sun/Ca重疊-日。</li>
+<li>前綴型：如果重疊是前綴型，則標為 <span class="sc">red</span>-，如：m-li-lizaq (噶瑪蘭)，標為：<span class="sc">af</span>-<span class="sc">red</span>-happy/主焦-重疊-高興。</li>
+<li>中綴型：如果只有部分中綴重疊而不是所有語幹重疊，則改用&lt;&gt;符號，如：sa-ru&lt;mi'a&gt;mi'ad (阿美語) 標為 sa-&lt;<span class="sc">red</span>&gt;day。</li>
+</ol></li>
+<li>本語料庫採用 <span class="sc">af</span>, <span class="sc">pf</span>, <span class="sc">rf</span> (<span class="sc">if</span>), <span class="sc">lf</span>等標示, 分別表 Agent Focus, Patient Focus, Referential Focus (Instrumental Focus), 及 Locative Focus。</li>
+<li>鄒語焦點的構詞與其他台灣南島語言不同，主事與受事焦點的區別主要在動詞後綴，因此本語料庫把鄒語焦點標記在動詞詞綴之後，例如bonU/ana (吃)標為eat.AF/eat.PF，boacU/eoeca (咬住) 標為bite.AF/bite.PF。少數動詞主事焦點類似其他南島語有-m-, m-形式，比較其受事焦點變化，大多仍伴隨字尾變化，例如tmoecU/teoca(砍)，matvo'ho/patvo'ha (說得出口)，mooteo/totea (等待)。這些例子我們仍維持標記為hack.AF/hack.PF, dare.to.say.AF/dare.to.say.PF, wait.AF/wait.PF。</li>
+<li>另外, 與 <a href="http://www.eva.mpg.de/lingua/resources/glossing-rules.php">Leipzig Glossing Rules</a> 之 Appendix 不同之處如下:
+<ul>
+<li><span class="sc">caus</span> 不用，標為 <span class="sc">cau</span>。</li>
+<li><span class="sc">dem</span> 不用，標成 this, that。</li>
+<li><span class="sc">nmlz</span> 不用，使用 <span class="sc">nmz</span>。</li>
+<li><span class="sc">recp</span> 不用，使用 <span class="sc">rec</span>。</li>
+</ul></li>
+</ol>
+</section>
+<section id="篇章標記" class="level2">
+<h2>篇章標記</h2>
+<p>篇章標記大致依照DuBois的格式, 不同之處有：</p>
+<ol type="1">
+<li>Truncated intonation unit不用</li>
+<li>為避免和 Leipzig Glossing Rules 衝突，Truncated word 從 - 改成 -<img src="newimages/spacer.gif" data-border="0" width="2" height="1" />-。</li>
+<li>為避免和 Leipzig Glossing Rules 衝突，Lengthening 從 = 改成 ==。</li>
+<li>‘^’ 符號不表 primary accent, 在此語料庫, ‘^’ 標語氣加重之音節。</li>
+</ol>
+<style type="text/css">
+div.table-container {
+    max-height: 64vh;
+    overflow-x: auto;
+}
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+caption {
+    position: sticky;
+    top: 0;
+    background: white;
+    padding-bottom: 0.3em;
+}
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
+.tg .tg-ef4f{background-color:#000000;border-color:inherit;text-align:left;vertical-align:middle}
+</style>
+<div class="table-container">
+<table class="tg">
+<caption><span class="sc">Symbols for Discourse</span><br />(adopted from Du Bois et al. (1993))</caption>
+<thead>
+  <tr>
+    <th class="tg-ef4f" colspan="2"><span style="color:#FFF">Units</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-lboi">Intonation Unit</td>
+    <td class="tg-lboi">New line</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Word</td>
+    <td class="tg-lboi">space</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi" rowspan="3">Truncated word</td>
+    <td class="tg-lboi">--</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">:</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">[ ]</td>
+  </tr>
+  <tr>
+    <td class="tg-ef4f" colspan="2"><span style="color:#FFF">Transitional Continuity</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Final</td>
+    <td class="tg-lboi">.</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Continuing</td>
+    <td class="tg-lboi">,</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Appeal</td>
+    <td class="tg-lboi">?</td>
+  </tr>
+  <tr>
+    <td class="tg-ef4f" colspan="2"><span style="color:#FFF">Terminal Pitch Direction</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Fall</td>
+    <td class="tg-lboi">\</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Rise</td>
+    <td class="tg-lboi">/</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Level</td>
+    <td class="tg-lboi">_</td>
+  </tr>
+  <tr>
+    <td class="tg-ef4f" colspan="2"><span style="color:#FFF">Accent and Lengthening</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Primary accent</td>
+    <td class="tg-lboi">^</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Secondary accent</td>
+    <td class="tg-lboi">`</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">High booster</td>
+    <td class="tg-lboi">!</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Low booster</td>
+    <td class="tg-lboi">;</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Lengthening</td>
+    <td class="tg-lboi">==</td>
+  </tr>
+  <tr>
+    <td class="tg-ef4f" colspan="2"><span style="color:#FFF">Tone</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Fall</td>
+    <td class="tg-lboi">\</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Rise</td>
+    <td class="tg-lboi">/</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Fall-Rise</td>
+    <td class="tg-lboi">\/</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Rise-fall</td>
+    <td class="tg-lboi">/\</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Level</td>
+    <td class="tg-lboi">_</td>
+  </tr>
+  <tr>
+    <td class="tg-ef4f" colspan="2"><span style="color:#FFF">Pause</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Long (longer than 0.7s)</td>
+    <td class="tg-lboi">...(N)</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Medium (0.3s-0.6s)</td>
+    <td class="tg-lboi">...</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Short (shorter than 0.2s)</td>
+    <td class="tg-lboi">..</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Latching</td>
+    <td class="tg-lboi">(0)</td>
+  </tr>
+  <tr>
+    <td class="tg-ef4f" colspan="2"><span style="color:#FFF">Vocal Noises</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Vocal noises</td>
+    <td class="tg-lboi">(CAPITAL LETTERS)</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Inhalation</td>
+    <td class="tg-lboi">(H)</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Exhalation</td>
+    <td class="tg-lboi">(Hx)</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Glottal stop</td>
+    <td class="tg-lboi">%</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Laughter</td>
+    <td class="tg-lboi">@</td>
+  </tr>
+  <tr>
+    <td class="tg-ef4f" colspan="2"><span style="color:#FFF">Quality</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Quality</td>
+    <td class="tg-lboi">&lt;Y Y&gt;</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Laugh quality</td>
+    <td class="tg-lboi">&lt;@ @&gt;</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Quotation quality</td>
+    <td class="tg-lboi">&lt;Q Q&gt;</td>
+  </tr>
+  <tr>
+    <td class="tg-ef4f" colspan="2"><span style="color:#FFF">Phonetics</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Phonetic / phonemic transcription</td>
+    <td class="tg-lboi">(/ /)</td>
+  </tr>
+  <tr>
+    <td class="tg-ef4f" colspan="2"><span style="color:#FFF">Transcriber's Perspective</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Researcher's comment</td>
+    <td class="tg-lboi">(( ))</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Uncertain hearing</td>
+    <td class="tg-lboi">&lt;X X&gt;</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Indecipherable syllable</td>
+    <td class="tg-lboi">X</td>
+  </tr>
+  <tr>
+    <td class="tg-ef4f" colspan="2"><span style="color:#FFF">Specialized Notations</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Duration</td>
+    <td class="tg-lboi">(N)</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">IU boundary</td>
+    <td class="tg-lboi">&amp;</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Accent unit boundary</td>
+    <td class="tg-lboi">|</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Embedded IU</td>
+    <td class="tg-lboi">&lt;| |&gt;</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Restart</td>
+    <td class="tg-lboi">{Capital Initial}</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">False start</td>
+    <td class="tg-lboi">&lt; &gt;</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Code switching</td>
+    <td class="tg-lboi">&lt;L2 L2&gt;</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Nontranscription line</td>
+    <td class="tg-lboi">$</td>
+  </tr>
+  <tr>
+    <td class="tg-ef4f" colspan="2"><span style="color:#FFF">Reserved Symbols</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Phonetic / orthographic symbols</td>
+    <td class="tg-lboi">'</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Morphosyntactic coding</td>
+    <td class="tg-lboi">+ * # { }</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">User-definable symbols</td>
+    <td class="tg-lboi">" ~</td>
+  </tr>
+</tbody>
+</table>
+</div>
+</section>
+<section id="參考書目" class="level2">
+<h2>參考書目</h2>
+<p>DuBois, John W. et al. 1993. Outline of discourse transcription, in <em>Talking data: transcription and coding for language research</em>, ed. by J.A.Edwards and M.S.Lampert. Hillsdale, N.J.: Lawrence Erlbaum Associates.</p>
+</section>
+</section>

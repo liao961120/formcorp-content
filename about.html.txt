@@ -19,7 +19,7 @@
 <section id="研究成果" class="level2">
 <h2>研究成果</h2>
 <!-- Do not delete the comment below!!! -->
-<p>目前語料庫中已建置<strong>卡那卡那富語</strong>、<strong>魯凱語</strong>、<strong>賽夏語</strong>、<strong>鄒語</strong>、<strong>噶瑪蘭語</strong>、<strong>阿美語</strong>、<strong>賽德克語</strong>、<strong>泰雅語</strong>、<strong>撒奇萊雅語</strong>以及<strong>布農語</strong>資料庫。卡那卡那富語有 35 筆口述語料及 2362 句例句語料；魯凱語有 17 筆口述語料及 1899 句例句語料；賽夏語有 20 筆口述語料；鄒語有 12 筆口述語料；噶瑪蘭語有 31 筆口述語料；阿美語有 18 筆口述語料；賽德克語有 39 筆口述語料；泰雅語有 11 筆口述語料；撒奇萊雅語有 30 筆口述語料；布農語有 13 筆口述語料及 2969 句例句語料。</p>
+<p>目前語料庫中已建置<strong>卡那卡那富語</strong>、<strong>魯凱語</strong>、<strong>賽夏語</strong>、<strong>鄒語</strong>、<strong>噶瑪蘭語</strong>、<strong>阿美語</strong>、<strong>賽德克語</strong>、<strong>泰雅語</strong>、<strong>撒奇萊雅語</strong>以及<strong>布農語</strong>資料庫。卡那卡那富語有 35 筆口述語料及 2369 句例句語料；魯凱語有 20 筆口述語料及 2139 句例句語料；賽夏語有 20 筆口述語料；鄒語有 12 筆口述語料；噶瑪蘭語有 31 筆口述語料；阿美語有 18 筆口述語料；賽德克語有 41 筆口述語料；泰雅語有 11 筆口述語料；撒奇萊雅語有 30 筆口述語料；布農語有 13 筆口述語料及 2972 句例句語料。</p>
 </section>
 <section id="未來展望" class="level2">
 <h2>未來展望</h2>

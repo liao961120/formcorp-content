@@ -1,0 +1,10 @@
+<section id="introduction-to-the-pear-stories" class="level1">
+<h1>Introduction to the Pear Stories</h1>
+<p>In the mid-1970’s, to test how much a simple story will vary from language to language, Chafe and his research team designed a very simple film to elicit stories from speakers around the world, including uneducated speaker in rural areas. (For full description, see Chafe 1980) Chafe and his team were very generous in sharing the film with the researchers around the world interested in the study.</p>
+<p>The Pear Stories’ film starts with a man on a tree picking his pears. A boy rode by on his bike and stole some of the pears.The boy then had a series of adventures with other children.At the end of the film, The farmer then discovers that his pears are missing, but then he sees three boys passing by eating pears. The film is six minutes long, in color, with sound effects but contains no dialogue. It was filmed in northern California, near the University of California, Berkeley.</p>
+<p>To avoid imposing a strong cultural bias, the story line is deliberately loose and bland. The scene of the boy’s falling off the bike and pears spilling to the ground can be used to understand how speakers of different languages encode the concept of cause and effect. And the unusual ping-pong toy tests how people describe or name an unfamiliar object. The final scene of the farmer’s discovery that his pears were stolen re-introduces a character who had been off-scene for most of the film can be used to elicit the description of emotions and state a moral. Also, the short scene of a man walking by the fruit three pulling a goat is inserted into the film to test descriptions of a background event with no later significance.</p>
+<section id="reference" class="level2">
+<h2>Reference</h2>
+<p>Chafe, Wallace L. 1980. The pear stories: Cognitive, cultural, and linguistic aspects of narrative production, NJ: Ablex.</p>
+</section>
+</section>

@@ -1,0 +1,23 @@
+<section id="書寫系統" class="level1">
+<h1>書寫系統</h1>
+<p>本語料庫採用由行政院原住民族委員會與教育部共同公告（94年12月15日）之書寫系統，相關網頁及資料如下：</p>
+<ul>
+<li><a href="http://www.apc.gov.tw/chinese/docDetail/detail_TCA.jsp?docid=PA000000000154">行政院原住民族資訊網</a></li>
+<li><a href="https://yongfu.name/temp-data/pdf/writingsystemsdoc.pdf">原住民族語言書寫系統總說明</a></li>
+<li><a href="https://yongfu.name/temp-data/pdf/kavalanwritingsystem.pdf">噶瑪蘭語書寫系統</a></li>
+<li><a href="https://yongfu.name/temp-data/pdf/amiswritingsystem.pdf">阿美語書寫系統</a></li>
+<li><a href="https://yongfu.name/temp-data/pdf/saisiyatwritingsystem.pdf">賽夏語書寫系統</a></li>
+</ul>
+<blockquote>
+<p>註：為符合行政院頒布之拼音方式，及與本語料庫跨語言間的標註取得一致，本語料庫中的噶瑪蘭語詞彙皆採單子音拼音方式。然中央研究院語言學研究所李壬癸教授指出，某些詞彙以雙子音拼音較貼近實際發音，本語料庫感謝李教授對此提出的寶貴建議，可作為研究噶瑪蘭語語音的重要指引。李教授指出應採雙子音標註的詞彙範例如下：</p>
+<ol type="1">
+<li>ussiq: ‘one’ 一</li>
+<li>siqqay: ‘snake’ 蛇</li>
+<li>manna: ‘why’ 為什麼</li>
+<li>zinneq: ‘heavy’ 重</li>
+<li>bassing: ‘sneeze’ 打噴嚏</li>
+<li>maRRung: ‘long’ 長</li>
+<li>suppaR: ‘know’ 知道；會</li>
+</ol>
+</blockquote>
+</section>

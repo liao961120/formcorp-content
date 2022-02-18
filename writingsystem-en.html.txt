@@ -1,0 +1,23 @@
+<section id="about-the-writing-system" class="level1">
+<h1>About the Writing System</h1>
+<p>This database adopts the writing system promulgated by the Council of Indigenous Peoples and the Ministry of Education on December 15, 2005. The relevant websites and information are listed below:</p>
+<ul>
+<li><a href="http://www.apc.gov.tw/chinese/docDetail/detail_TCA.jsp?docid=PA000000000154">Council of Indigenous Peoples website</a></li>
+<li><a href="https://yongfu.name/temp-data/pdf/writingsystemsdoc.pdf">Writing system of the Formosan languages</a></li>
+<li><a href="https://yongfu.name/temp-data/pdf/kavalanwritingsystem.pdf">Writing system of the Kavalan language</a></li>
+<li><a href="https://yongfu.name/temp-data/pdf/amiswritingsystem.pdf">Writing system of the Amis language</a></li>
+<li><a href="https://yongfu.name/temp-data/pdf/saisiyatwritingsystem.pdf">Writing system of the Saysiyat language</a></li>
+</ul>
+<blockquote>
+<p>Note: In order to comply with the official Romanization system promulgated by the Executive Yuan, and in order to unify the marking system for the languages in our corpus, the “one consonant marking” was adopted for the Kavalan vocabulary in our corpus. It was, however, indicated by Prof. Paul Li of the Graduate Institute of Linguistics at the Academia Sinica that using the “double consonant marking” for certain words would render the spelling closer to the actual pronunciation. We express gratitude for Prof. Li’s recommendation, which is important in our study of the Kavalan phonological system. The words that were suggested to adopt the “double consonant marking” are the following:</p>
+<ol type="1">
+<li>ussiq: ‘one’ 一</li>
+<li>siqqay: ‘snake’ 蛇</li>
+<li>manna: ‘why’ 為什麼</li>
+<li>zinneq: ‘heavy’ 重</li>
+<li>bassing: ‘sneeze’ 打噴嚏</li>
+<li>maRRung: ‘long’ 長</li>
+<li>suppaR: ‘know’ 知道；會</li>
+</ol>
+</blockquote>
+</section>
