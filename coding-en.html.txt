@@ -14,7 +14,7 @@
 <p>While the coding conventions in our corpus basically follow the <a href="http://www.eva.mpg.de/lingua/resources/glossing-rules.php">Leipzig Glossing Rules</a>, we have alternative treatment on Rule 6, 7 and 10. To well capture and represent language specificity of Formosan languages, some other coding conventions are also adopted. Detailed explanations are provided below.</p>
 <ol type="A">
 <li><p>Coding for inherent categories (Rule 7) is not used.</p></li>
-<li><p>The symbol [ ] or Ã˜ (Rule 6) is not used for glossing non-overt elements. For example, <em>‘akoy* (Saisiyat) is glossed as ’AF.many.’ Due to the unique morphological structure of focus in Tsou, non-overt elements, such as </em>bonu* 'to eat' are glossed like this: eat.AF. ( See the detailed explanation below in (E).)</p></li>
+<li><p>The symbol [ ] or ÃƒËœ (Rule 6) is not used for glossing non-overt elements. For example, <em>‘akoy* (Saisiyat) is glossed as ’AF.many.’ Due to the unique morphological structure of focus in Tsou, non-overt elements, such as </em>bonu* 'to eat' are glossed like this: eat.AF. ( See the detailed explanation below in (E).)</p></li>
 <li><p>Coding for reduplication is not marked by a tilde, ~ (Rule 10). The three reduplication rules adopted in this corpus are listed as follows.</p>
 <ol type="i">
 <li>Ca reduplication will be glossed Ca. For example, ha-hila (Saisiyat) is glossed Ca-sun.</li>
@@ -41,7 +41,7 @@
 <li>To avoid possible confusion with the Leipzig Glossing Rules, lengthening is marked == instead of =.</li>
 <li>The symbol ‘^,’ originally used for primary accent, is now reserved to indicate a change of intensity, which is perceived as a focused (or "emphasized") prominent syllable which sometimes does not coincide with the stressed pattern of a word.</li>
 </ol>
-<p style="text-align:center;">
+<p class="tbl-caption">
     <span class="sc">Symbols for Discourse</span><br />(adopted from Du Bois et al. (1993))
 </p>
 <div class="tbl-cont">
@@ -452,10 +452,17 @@
             display: flex;
             flex-direction: row;
             justify-content: center;
+            margin-top: 0;
         }
 
         .tbl-cont table {
             margin: 1.5em;
+        }
+
+        p.tbl-caption {
+            text-align: center;
+            padding-top: 2em;
+            margin-bottom: 0;
         }
     </style>
 </div>

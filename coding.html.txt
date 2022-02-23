@@ -41,7 +41,7 @@
 <li>為避免和 Leipzig Glossing Rules 衝突，Lengthening 從 = 改成 ==。</li>
 <li>‘^’ 符號不表 primary accent, 在此語料庫, ‘^’ 標語氣加重之音節。</li>
 </ol>
-<p style="text-align:center;">
+<p class="tbl-caption">
     <span class="sc">Symbols for Discourse</span><br />(adopted from Du Bois et al. (1993))
 </p>
 <div class="tbl-cont">
@@ -452,10 +452,17 @@
             display: flex;
             flex-direction: row;
             justify-content: center;
+            margin-top: 0;
         }
 
         .tbl-cont table {
             margin: 1.5em;
+        }
+
+        p.tbl-caption {
+            text-align: center;
+            padding-top: 2em;
+            margin-bottom: 0;
         }
     </style>
 </div>
