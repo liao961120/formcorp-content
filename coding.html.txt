@@ -41,6 +41,9 @@
 <li>為避免和 Leipzig Glossing Rules 衝突，Lengthening 從 = 改成 ==。</li>
 <li>‘^’ 符號不表 primary accent, 在此語料庫, ‘^’ 標語氣加重之音節。</li>
 </ol>
+<p style="text-align:center;">
+    <span class="sc">Symbols for Discourse</span><br />(adopted from Du Bois et al. (1993))
+</p>
 <div class="tbl-cont">
     <style type="text/css">
         .tg {
