@@ -41,263 +41,420 @@
 <li>為避免和 Leipzig Glossing Rules 衝突，Lengthening 從 = 改成 ==。</li>
 <li>‘^’ 符號不表 primary accent, 在此語料庫, ‘^’ 標語氣加重之音節。</li>
 </ol>
-<style type="text/css">
-div.table-container {
-    max-height: 64vh;
-    overflow-x: auto;
-}
-table {
-    margin-left: auto;
-    margin-right: auto;
-}
-caption {
-    position: sticky;
-    top: 0;
-    background: white;
-    padding-bottom: 0.3em;
-}
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
-.tg .tg-ef4f{background-color:#000000;border-color:inherit;text-align:left;vertical-align:middle}
-</style>
-<div class="table-container">
-<table class="tg">
-<caption><span class="sc">Symbols for Discourse</span><br />(adopted from Du Bois et al. (1993))</caption>
-<thead>
-  <tr>
-    <th class="tg-ef4f" colspan="2"><span style="color:#FFF">Units</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-lboi">Intonation Unit</td>
-    <td class="tg-lboi">New line</td>
-  </tr>
-  <tr>
-    <td class="tg-lboi">Word</td>
-    <td class="tg-lboi">space</td>
-  </tr>
-  <tr>
-    <td class="tg-lboi" rowspan="3">Truncated word</td>
-    <td class="tg-lboi">--</td>
-  </tr>
-  <tr>
-    <td class="tg-lboi">:</td>
-  </tr>
-  <tr>
-    <td class="tg-lboi">[ ]</td>
-  </tr>
-  <tr>
-    <td class="tg-ef4f" colspan="2"><span style="color:#FFF">Transitional Continuity</span></td>
-  </tr>
-  <tr>
-    <td class="tg-lboi">Final</td>
-    <td class="tg-lboi">.</td>
-  </tr>
-  <tr>
-    <td class="tg-lboi">Continuing</td>
-    <td class="tg-lboi">,</td>
-  </tr>
-  <tr>
-    <td class="tg-lboi">Appeal</td>
-    <td class="tg-lboi">?</td>
-  </tr>
-  <tr>
-    <td class="tg-ef4f" colspan="2"><span style="color:#FFF">Terminal Pitch Direction</span></td>
-  </tr>
-  <tr>
-    <td class="tg-lboi">Fall</td>
-    <td class="tg-lboi">\</td>
-  </tr>
-  <tr>
-    <td class="tg-lboi">Rise</td>
-    <td class="tg-lboi">/</td>
-  </tr>
-  <tr>
-    <td class="tg-lboi">Level</td>
-    <td class="tg-lboi">_</td>
-  </tr>
-  <tr>
-    <td class="tg-ef4f" colspan="2"><span style="color:#FFF">Accent and Lengthening</span></td>
-  </tr>
-  <tr>
-    <td class="tg-lboi">Primary accent</td>
-    <td class="tg-lboi">^</td>
-  </tr>
-  <tr>
-    <td class="tg-lboi">Secondary accent</td>
-    <td class="tg-lboi">`</td>
-  </tr>
-  <tr>
-    <td class="tg-lboi">High booster</td>
-    <td class="tg-lboi">!</td>
-  </tr>
-  <tr>
-    <td class="tg-lboi">Low booster</td>
-    <td class="tg-lboi">;</td>
-  </tr>
-  <tr>
-    <td class="tg-lboi">Lengthening</td>
-    <td class="tg-lboi">==</td>
-  </tr>
-  <tr>
-    <td class="tg-ef4f" colspan="2"><span style="color:#FFF">Tone</span></td>
-  </tr>
-  <tr>
-    <td class="tg-lboi">Fall</td>
-    <td class="tg-lboi">\</td>
-  </tr>
-  <tr>
-    <td class="tg-lboi">Rise</td>
-    <td class="tg-lboi">/</td>
-  </tr>
-  <tr>
-    <td class="tg-lboi">Fall-Rise</td>
-    <td class="tg-lboi">\/</td>
-  </tr>
-  <tr>
-    <td class="tg-lboi">Rise-fall</td>
-    <td class="tg-lboi">/\</td>
-  </tr>
-  <tr>
-    <td class="tg-lboi">Level</td>
-    <td class="tg-lboi">_</td>
-  </tr>
-  <tr>
-    <td class="tg-ef4f" colspan="2"><span style="color:#FFF">Pause</span></td>
-  </tr>
-  <tr>
-    <td class="tg-lboi">Long (longer than 0.7s)</td>
-    <td class="tg-lboi">...(N)</td>
-  </tr>
-  <tr>
-    <td class="tg-lboi">Medium (0.3s-0.6s)</td>
-    <td class="tg-lboi">...</td>
-  </tr>
-  <tr>
-    <td class="tg-lboi">Short (shorter than 0.2s)</td>
-    <td class="tg-lboi">..</td>
-  </tr>
-  <tr>
-    <td class="tg-lboi">Latching</td>
-    <td class="tg-lboi">(0)</td>
-  </tr>
-  <tr>
-    <td class="tg-ef4f" colspan="2"><span style="color:#FFF">Vocal Noises</span></td>
-  </tr>
-  <tr>
-    <td class="tg-lboi">Vocal noises</td>
-    <td class="tg-lboi">(CAPITAL LETTERS)</td>
-  </tr>
-  <tr>
-    <td class="tg-lboi">Inhalation</td>
-    <td class="tg-lboi">(H)</td>
-  </tr>
-  <tr>
-    <td class="tg-lboi">Exhalation</td>
-    <td class="tg-lboi">(Hx)</td>
-  </tr>
-  <tr>
-    <td class="tg-lboi">Glottal stop</td>
-    <td class="tg-lboi">%</td>
-  </tr>
-  <tr>
-    <td class="tg-lboi">Laughter</td>
-    <td class="tg-lboi">@</td>
-  </tr>
-  <tr>
-    <td class="tg-ef4f" colspan="2"><span style="color:#FFF">Quality</span></td>
-  </tr>
-  <tr>
-    <td class="tg-lboi">Quality</td>
-    <td class="tg-lboi">&lt;Y Y&gt;</td>
-  </tr>
-  <tr>
-    <td class="tg-lboi">Laugh quality</td>
-    <td class="tg-lboi">&lt;@ @&gt;</td>
-  </tr>
-  <tr>
-    <td class="tg-lboi">Quotation quality</td>
-    <td class="tg-lboi">&lt;Q Q&gt;</td>
-  </tr>
-  <tr>
-    <td class="tg-ef4f" colspan="2"><span style="color:#FFF">Phonetics</span></td>
-  </tr>
-  <tr>
-    <td class="tg-lboi">Phonetic / phonemic transcription</td>
-    <td class="tg-lboi">(/ /)</td>
-  </tr>
-  <tr>
-    <td class="tg-ef4f" colspan="2"><span style="color:#FFF">Transcriber's Perspective</span></td>
-  </tr>
-  <tr>
-    <td class="tg-lboi">Researcher's comment</td>
-    <td class="tg-lboi">(( ))</td>
-  </tr>
-  <tr>
-    <td class="tg-lboi">Uncertain hearing</td>
-    <td class="tg-lboi">&lt;X X&gt;</td>
-  </tr>
-  <tr>
-    <td class="tg-lboi">Indecipherable syllable</td>
-    <td class="tg-lboi">X</td>
-  </tr>
-  <tr>
-    <td class="tg-ef4f" colspan="2"><span style="color:#FFF">Specialized Notations</span></td>
-  </tr>
-  <tr>
-    <td class="tg-lboi">Duration</td>
-    <td class="tg-lboi">(N)</td>
-  </tr>
-  <tr>
-    <td class="tg-lboi">IU boundary</td>
-    <td class="tg-lboi">&amp;</td>
-  </tr>
-  <tr>
-    <td class="tg-lboi">Accent unit boundary</td>
-    <td class="tg-lboi">|</td>
-  </tr>
-  <tr>
-    <td class="tg-lboi">Embedded IU</td>
-    <td class="tg-lboi">&lt;| |&gt;</td>
-  </tr>
-  <tr>
-    <td class="tg-lboi">Restart</td>
-    <td class="tg-lboi">{Capital Initial}</td>
-  </tr>
-  <tr>
-    <td class="tg-lboi">False start</td>
-    <td class="tg-lboi">&lt; &gt;</td>
-  </tr>
-  <tr>
-    <td class="tg-lboi">Code switching</td>
-    <td class="tg-lboi">&lt;L2 L2&gt;</td>
-  </tr>
-  <tr>
-    <td class="tg-lboi">Nontranscription line</td>
-    <td class="tg-lboi">$</td>
-  </tr>
-  <tr>
-    <td class="tg-ef4f" colspan="2"><span style="color:#FFF">Reserved Symbols</span></td>
-  </tr>
-  <tr>
-    <td class="tg-lboi">Phonetic / orthographic symbols</td>
-    <td class="tg-lboi">'</td>
-  </tr>
-  <tr>
-    <td class="tg-lboi">Morphosyntactic coding</td>
-    <td class="tg-lboi">+ * # { }</td>
-  </tr>
-  <tr>
-    <td class="tg-lboi">User-definable symbols</td>
-    <td class="tg-lboi">" ~</td>
-  </tr>
-</tbody>
-</table>
+<div class="tbl-cont">
+    <style type="text/css">
+        .tg {
+            border-collapse: collapse;
+            border-spacing: 0;
+        }
+
+        .tg td {
+            border-color: black;
+            border-style: solid;
+            border-width: 1px;
+            font-family: Arial, sans-serif;
+            font-size: 14px;
+            overflow: hidden;
+            padding: 10px 5px;
+            word-break: normal;
+        }
+
+        .tg th {
+            border-color: black;
+            border-style: solid;
+            border-width: 1px;
+            font-family: Arial, sans-serif;
+            font-size: 14px;
+            font-weight: normal;
+            overflow: hidden;
+            padding: 10px 5px;
+            word-break: normal;
+        }
+
+        .tg .tg-syad {
+            background-color: #000000;
+            border-color: inherit;
+            color: #ffffff;
+            text-align: left;
+            vertical-align: top
+        }
+
+        .tg .tg-mk6l {
+            background-color: #000000;
+            border-color: #000000;
+            color: #ffffff;
+            text-align: left;
+            vertical-align: top
+        }
+
+        .tg .tg-613o {
+            background-color: #FFF;
+            border-color: inherit;
+            color: rgba(0, 0, 0, 0.87);
+            text-align: left;
+            vertical-align: middle
+        }
+    </style>
+
+    <table class="tg">
+        <thead>
+            <tr>
+                <th class="tg-mk6l" colspan="2">Units</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td class="tg-613o">Intonation Unit</td>
+                <td class="tg-613o">New line</td>
+            </tr>
+            <tr>
+                <td class="tg-613o">Word</td>
+                <td class="tg-613o">space</td>
+            </tr>
+            <tr>
+                <td class="tg-613o" rowspan="3">Truncated word</td>
+                <td class="tg-613o">--</td>
+            </tr>
+            <tr>
+                <td class="tg-613o">:</td>
+            </tr>
+            <tr>
+                <td class="tg-613o">[ ]</td>
+            </tr>
+            <tr>
+                <td class="tg-syad" colspan="2">Transitional Continuity</td>
+            </tr>
+            <tr>
+                <td class="tg-613o">Final</td>
+                <td class="tg-613o">.</td>
+            </tr>
+            <tr>
+                <td class="tg-613o">Continuing</td>
+                <td class="tg-613o">,</td>
+            </tr>
+            <tr>
+                <td class="tg-613o">Appeal</td>
+                <td class="tg-613o">?</td>
+            </tr>
+            <tr>
+                <td class="tg-syad" colspan="2">Terminal Pitch Direction</td>
+            </tr>
+            <tr>
+                <td class="tg-613o">Fall</td>
+                <td class="tg-613o">\</td>
+            </tr>
+            <tr>
+                <td class="tg-613o">Rise</td>
+                <td class="tg-613o">/</td>
+            </tr>
+            <tr>
+                <td class="tg-613o">Level</td>
+                <td class="tg-613o">_</td>
+            </tr>
+            <tr>
+                <td class="tg-syad" colspan="2">Accent and Lengthening</td>
+            </tr>
+            <tr>
+                <td class="tg-613o">Primary accent</td>
+                <td class="tg-613o">^</td>
+            </tr>
+            <tr>
+                <td class="tg-613o">Secondary accent</td>
+                <td class="tg-613o">`</td>
+            </tr>
+            <tr>
+                <td class="tg-613o">High booster</td>
+                <td class="tg-613o">!</td>
+            </tr>
+            <tr>
+                <td class="tg-613o">Low booster</td>
+                <td class="tg-613o">;</td>
+            </tr>
+            <tr>
+                <td class="tg-613o">Lengthening</td>
+                <td class="tg-613o">==</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <style type="text/css">
+        .tg {
+            border-collapse: collapse;
+            border-spacing: 0;
+        }
+
+        .tg td {
+            border-color: black;
+            border-style: solid;
+            border-width: 1px;
+            font-family: Arial, sans-serif;
+            font-size: 14px;
+            overflow: hidden;
+            padding: 10px 5px;
+            word-break: normal;
+        }
+
+        .tg th {
+            border-color: black;
+            border-style: solid;
+            border-width: 1px;
+            font-family: Arial, sans-serif;
+            font-size: 14px;
+            font-weight: normal;
+            overflow: hidden;
+            padding: 10px 5px;
+            word-break: normal;
+        }
+
+        .tg .tg-snxj {
+            background-color: #FFF;
+            color: rgba(0, 0, 0, 0.87);
+            text-align: left;
+            vertical-align: middle
+        }
+
+        .tg .tg-2zlm {
+            background-color: #000000;
+            color: #FFF;
+            text-align: left;
+            vertical-align: top
+        }
+
+        .tg .tg-shb1 {
+            background-color: #000000;
+            border-color: #000000;
+            color: #FFF;
+            text-align: left;
+            vertical-align: top
+        }
+    </style>
+    <table class="tg">
+        <thead>
+            <tr>
+                <th class="tg-shb1" colspan="2"><span style="color:#FFF">Tone</span></th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td class="tg-snxj">Fall</td>
+                <td class="tg-snxj">\</td>
+            </tr>
+            <tr>
+                <td class="tg-snxj">Rise</td>
+                <td class="tg-snxj">/</td>
+            </tr>
+            <tr>
+                <td class="tg-snxj">Fall-Rise</td>
+                <td class="tg-snxj">\/</td>
+            </tr>
+            <tr>
+                <td class="tg-snxj">Rise-fall</td>
+                <td class="tg-snxj">/\</td>
+            </tr>
+            <tr>
+                <td class="tg-snxj">Level</td>
+                <td class="tg-snxj">_</td>
+            </tr>
+            <tr>
+                <td class="tg-2zlm" colspan="2"><span style="color:#FFF">Pause</span></td>
+            </tr>
+            <tr>
+                <td class="tg-snxj">Long (longer than 0.7s)</td>
+                <td class="tg-snxj">...(N)</td>
+            </tr>
+            <tr>
+                <td class="tg-snxj">Medium (0.3s-0.6s)</td>
+                <td class="tg-snxj">...</td>
+            </tr>
+            <tr>
+                <td class="tg-snxj">Short (shorter than 0.2s)</td>
+                <td class="tg-snxj">..</td>
+            </tr>
+            <tr>
+                <td class="tg-snxj">Latching</td>
+                <td class="tg-snxj">(0)</td>
+            </tr>
+            <tr>
+                <td class="tg-2zlm" colspan="2"><span style="color:#FFF">Vocal Noises</span></td>
+            </tr>
+            <tr>
+                <td class="tg-snxj">Vocal noises</td>
+                <td class="tg-snxj">(CAPITAL LETTERS)</td>
+            </tr>
+            <tr>
+                <td class="tg-snxj">Inhalation</td>
+                <td class="tg-snxj">(H)</td>
+            </tr>
+            <tr>
+                <td class="tg-snxj">Exhalation</td>
+                <td class="tg-snxj">(Hx)</td>
+            </tr>
+            <tr>
+                <td class="tg-snxj">Glottal stop</td>
+                <td class="tg-snxj">%</td>
+            </tr>
+            <tr>
+                <td class="tg-snxj">Laughter</td>
+                <td class="tg-snxj">@</td>
+            </tr>
+            <tr>
+                <td class="tg-2zlm" colspan="2"><span style="color:#FFF">Quality</span></td>
+            </tr>
+            <tr>
+                <td class="tg-snxj">Quality</td>
+                <td class="tg-snxj">&lt;Y Y&gt;</td>
+            </tr>
+            <tr>
+                <td class="tg-snxj">Laugh quality</td>
+                <td class="tg-snxj">&lt;@ @&gt;</td>
+            </tr>
+            <tr>
+                <td class="tg-snxj">Quotation quality</td>
+                <td class="tg-snxj">&lt;Q Q&gt;</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <style type="text/css">
+        .tg {
+            border-collapse: collapse;
+            border-spacing: 0;
+        }
+
+        .tg td {
+            border-color: black;
+            border-style: solid;
+            border-width: 1px;
+            font-family: Arial, sans-serif;
+            font-size: 14px;
+            overflow: hidden;
+            padding: 10px 5px;
+            word-break: normal;
+        }
+
+        .tg th {
+            border-color: black;
+            border-style: solid;
+            border-width: 1px;
+            font-family: Arial, sans-serif;
+            font-size: 14px;
+            font-weight: normal;
+            overflow: hidden;
+            padding: 10px 5px;
+            word-break: normal;
+        }
+
+        .tg .tg-snxj {
+            background-color: #FFF;
+            color: rgba(0, 0, 0, 0.87);
+            text-align: left;
+            vertical-align: middle
+        }
+
+        .tg .tg-2zlm {
+            background-color: #000000;
+            color: #FFF;
+            text-align: left;
+            vertical-align: top
+        }
+
+        .tg .tg-shb1 {
+            background-color: #000000;
+            border-color: #000000;
+            color: #FFF;
+            text-align: left;
+            vertical-align: top
+        }
+    </style>
+    <table class="tg">
+        <thead>
+            <tr>
+                <th class="tg-shb1" colspan="2"><span style="color:#FFF">Phonetics</span></th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td class="tg-snxj">Phonetic / phonemic transcription</td>
+                <td class="tg-snxj">(/ /)</td>
+            </tr>
+            <tr>
+                <td class="tg-2zlm" colspan="2"><span style="color:#FFF">Transcriber's Perspective</span></td>
+            </tr>
+            <tr>
+                <td class="tg-snxj">Researcher's comment</td>
+                <td class="tg-snxj">(( ))</td>
+            </tr>
+            <tr>
+                <td class="tg-snxj">Uncertain hearing</td>
+                <td class="tg-snxj">&lt;X X&gt;</td>
+            </tr>
+            <tr>
+                <td class="tg-snxj">Indecipherable syllable</td>
+                <td class="tg-snxj">X</td>
+            </tr>
+            <tr>
+                <td class="tg-2zlm" colspan="2"><span style="color:#FFF">Specialized Notations</span></td>
+            </tr>
+            <tr>
+                <td class="tg-snxj">Duration</td>
+                <td class="tg-snxj">(N)</td>
+            </tr>
+            <tr>
+                <td class="tg-snxj">IU boundary</td>
+                <td class="tg-snxj">&amp;</td>
+            </tr>
+            <tr>
+                <td class="tg-snxj">Accent unit boundary</td>
+                <td class="tg-snxj">|</td>
+            </tr>
+            <tr>
+                <td class="tg-snxj">Embedded IU</td>
+                <td class="tg-snxj">&lt;| |&gt;</td>
+            </tr>
+            <tr>
+                <td class="tg-snxj">Restart</td>
+                <td class="tg-snxj">{Capital Initial}</td>
+            </tr>
+            <tr>
+                <td class="tg-snxj">False start</td>
+                <td class="tg-snxj">&lt; &gt;</td>
+            </tr>
+            <tr>
+                <td class="tg-snxj">Code switching</td>
+                <td class="tg-snxj">&lt;L2 L2&gt;</td>
+            </tr>
+            <tr>
+                <td class="tg-snxj">Nontranscription line</td>
+                <td class="tg-snxj">$</td>
+            </tr>
+            <tr>
+                <td class="tg-2zlm" colspan="2"><span style="color:#FFF">Reserved Symbols</span></td>
+            </tr>
+            <tr>
+                <td class="tg-snxj">Phonetic / orthographic symbols</td>
+                <td class="tg-snxj">'</td>
+            </tr>
+            <tr>
+                <td class="tg-snxj">Morphosyntactic coding</td>
+                <td class="tg-snxj">+ * # { }</td>
+            </tr>
+            <tr>
+                <td class="tg-snxj">User-definable symbols</td>
+                <td class="tg-snxj">" ~</td>
+            </tr>
+        </tbody>
+    </table>
+    <style>
+        .tbl-cont {
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+        }
+
+        .tbl-cont table {
+            margin: 1.5em;
+        }
+    </style>
 </div>
 </section>
 <section id="參考書目" class="level2">

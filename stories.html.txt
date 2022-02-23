@@ -13,8 +13,8 @@
 <p>「梨子的故事」內容描述一名中年男子在採收梨子，結果被一名騎腳踏車的男孩偷了一籃梨子。之後，那個男孩本身後來也遇到一連串的事件。最後是男子發現他的梨不見的同時，卻看到另外三名男孩邊走邊吃著梨經過他的面前。整部影片長六分鐘，彩色、有背景音效卻沒有對白。影片拍攝場景是在靠近加州大學柏克萊分校附近的北加州，飾演採收梨子的中年男子是古巴人。</p>
 <p>影片故事平淡且故事情節十分鬆散，是為了避免強烈的美國文化色彩造成任何偏差。影片中，腳踏車倒下、梨子灑了滿地的橋段，可用來測試語言的因果表達。三名男孩手拿的乒乓球玩具，可用來測試不同語言的人如何描述罕見的物件。最後採梨男子再度出現並發現他的梨被偷的情節，不但將一個只在影片一開始出現但後來幾乎沒有出現過的角色重新介紹出場，更可用來測試語言使用者的情緒表達及道德教訓的描述。另外，影片一開始出現的男子牽著羊經過的背景橋段，則是用來測試語言使用者如何處理或描述一個對後續故事情節發展完全不具重要性的事件。</p>
 </section>
-<section id="reference" class="level2">
-<h2>Reference</h2>
+<section id="參考書目" class="level2">
+<h2>參考書目</h2>
 <p>Chafe, Wallace L. 1980. The pear stories: Cognitive, cultural, and linguistic aspects of narrative production, NJ: Ablex.</p>
 <p>Mayer, Mercer. 1980. Frog, Where are You? New York: Dial Books.</p>
 <p>Huang, Shuanfan and Michael Tanangkingsing. 2005. Rerference to motion events in Six Western Austronesian Languages: Toward a Semantic Typology. Oceanic Linguistics 44.2:307-340.</p>
