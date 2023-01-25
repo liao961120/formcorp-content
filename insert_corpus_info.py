@@ -31,18 +31,28 @@ class CorpusInfoSummary():
     def get_lang_textnum(self, lang):
         lang = lang.lower()
         text_info = {
-            'story': 0,
-            'sent': 0
+            # 'story': 0,
+            # 'sent': 0
+            'story_num': 0,
+            'sentence_num': 0,
+            'grammar_sent_num': 0,
+            'word_class_sent_num': 0,
         }
+
         for name, data in self.meta.items():
             if lang not in name.lower(): continue
 
-            text_info['sent'] = data['summary']['sentence']['sent_num']
+            # Sentence num
+            text_info['sentence_num'] = data['summary']['sentence']['sent_num']
+            text_info['grammar_sent_num'] = data['summary']['grammar']['sent_num']
+            # Count stories
             for text in data['text']:
-                if text['type'] != 'Sentence':
-                    text_info['story'] += 1
+                if text['type'] != 'Sentence' and \
+                    text['type'] != 'WordClass':    # WordClass no data available as 2023-01-25
+                    text_info['story_num'] += 1
         
-        return text_info['story'], text_info['sent']
+        return text_info['story_num'], text_info['sentence_num'], \
+            text_info['grammar_sent_num'], text_info['word_class_sent_num']
 
 
     def generate_sentence(self):
@@ -52,7 +62,7 @@ class CorpusInfoSummary():
         langs = list(info.keys())
 
         sent1 = f"目前語料庫中已建置**{'**、**'.join(langs[:-1])}**以及**{langs[-1]}**資料庫。"
-        sent2 = '；'.join( f"{k}有{f' {v[0]} 筆口述語料'  if v[0] != 0 else ''}{'及' if v[0] != 0 and v[1] != 0 else ''}{f' {v[1]} 句例句語料' if v[1] != 0 else ''}" for k, v in info.items() ) + '。'
+        sent2 = '；'.join( f"{k}有 {v[0]} 筆口述語料、{v[1]} 句例句語料、文法書 {v[2]} 句例句及詞類專書 {v[3]} 句例句" for k, v in info.items() ) + '。'
         
         return sent1 + sent2
     
@@ -64,17 +74,20 @@ class CorpusInfoSummary():
         langs = list(info.keys())
 
         sent1 = f"Currently, the corpus contains data collected from {len(langs)} different languages: **{'**, **'.join(langs[:-1])}**, and **{langs[-1]}**. "
-
-        info = list(info.items())
-        k, v = info[0]
-        sent2_0 = f"{f'{int_to_en(v[0]).capitalize()} texts with audio recordings (TWAs)' if v[0] != 0 else ''}{' and ' if v[0] != 0 and v[1] != 0 else ''}{f'{v[1]} elicited sentences' if v[1] != 0 else ''} were collected for {k}, "
+        # info = list(info.items())
         
-        sent2 = ', '.join( f"{f'{v[0]} TWAs' if v[0] != 0 else ''}{' and ' if v[0] != 0 and v[1] != 0 else ''}{f'{v[1]} elicited sentences' if v[1] != 0 else ''} for {k}" for k, v in info[1:-1])
+        sent2 = '; '.join( f"{v[0]} texts with audio recordings  (TWAs), {v[1]} elicited sentences, {v[2]} example sentences from Grammar Books, and {v[3]} sentences from Word Class Books were collected for {k}" for k, v in info.items() ) + '.'
 
-        k, v= info[-1]
-        sent2_n = ', and ' + f"{f'{v[0]} TWAs' if v[0] != 0 else ''}{' and ' if v[0] != 0 and v[1] != 0 else ''}{f'{v[1]} elicited sentences' if v[1] != 0 else ''} for {k}."
+        # k, v = info[0]
+        # sent2_0 = f"{int_to_en(v[0]).capitalize()} texts with audio recordings (TWAs) and {v[1]} elicited sentences were collected for {k}, "
         
-        return sent1 + sent2_0 + sent2 + sent2_n
+        # sent2 = ', '.join( f"{v[0]} TWAs and {v[1]} elicited sentences" for k, v in info[1:-1])
+
+        # k, v= info[-1]
+        # sent2_n = ', and ' + f"{f'{v[0]} TWAs' if v[0] != 0 else ''}{' and ' if v[0] != 0 and v[1] != 0 else ''}{f'{v[1]} elicited sentences' if v[1] != 0 else ''} for {k}."
+        
+        #return sent1 + sent2_0 + sent2 + sent2_n
+        return sent1 + sent2
     
 
     def insert_corpus_info(self, md, en=False):
